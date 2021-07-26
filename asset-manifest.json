@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f5d9124f.chunk.css",
+    "main.js": "/static/js/main.ebf79b8a.chunk.js",
+    "main.js.map": "/static/js/main.ebf79b8a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f175dcfc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f175dcfc.js.map",
+    "static/js/2.3b198872.chunk.js": "/static/js/2.3b198872.chunk.js",
+    "static/js/2.3b198872.chunk.js.map": "/static/js/2.3b198872.chunk.js.map",
+    "static/css/3.9a1e558f.chunk.css": "/static/css/3.9a1e558f.chunk.css",
+    "static/js/3.fb2091b9.chunk.js": "/static/js/3.fb2091b9.chunk.js",
+    "static/js/3.fb2091b9.chunk.js.map": "/static/js/3.fb2091b9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/3.9a1e558f.chunk.css.map": "/static/css/3.9a1e558f.chunk.css.map",
+    "static/css/main.f5d9124f.chunk.css.map": "/static/css/main.f5d9124f.chunk.css.map",
+    "static/js/2.3b198872.chunk.js.LICENSE.txt": "/static/js/2.3b198872.chunk.js.LICENSE.txt",
+    "static/media/back.329523b3.svg": "/static/media/back.329523b3.svg",
+    "static/media/index.css": "/static/media/bg-home.6782edb3.jpg",
+    "static/media/bookmark.e9eb1ac2.svg": "/static/media/bookmark.e9eb1ac2.svg",
+    "static/media/cross.f970c57a.svg": "/static/media/cross.f970c57a.svg",
+    "static/media/dark.5aa4c244.jpg": "/static/media/dark.5aa4c244.jpg",
+    "static/media/dark.ae0163af.svg": "/static/media/dark.ae0163af.svg",
+    "static/media/favorite-fill.b881a61a.svg": "/static/media/favorite-fill.b881a61a.svg",
+    "static/media/favorite.c25d9749.svg": "/static/media/favorite.c25d9749.svg",
+    "static/media/light.a0300f63.jpg": "/static/media/light.a0300f63.jpg",
+    "static/media/light.b33ca8cc.svg": "/static/media/light.b33ca8cc.svg",
+    "static/media/loader-black.c0bae95e.svg": "/static/media/loader-black.c0bae95e.svg",
+    "static/media/loader-blue.e74381ad.svg": "/static/media/loader-blue.e74381ad.svg",
+    "static/media/loader-white-red.810ea70b.svg": "/static/media/loader-white-red.810ea70b.svg",
+    "static/media/neitral.17903ef8.jpg": "/static/media/neitral.17903ef8.jpg",
+    "static/media/neitral.511eae4c.svg": "/static/media/neitral.511eae4c.svg",
+    "static/media/starWars.5cd2a7e6.mp4": "/static/media/starWars.5cd2a7e6.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f175dcfc.js",
+    "static/js/2.3b198872.chunk.js",
+    "static/css/main.f5d9124f.chunk.css",
+    "static/js/main.ebf79b8a.chunk.js"
+  ]
+}
