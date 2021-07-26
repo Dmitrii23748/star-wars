@@ -1,0 +1,36 @@
+.wrapper__input {
+  position: relative;
+  display: inline-flex;
+}
+
+.input {
+  min-width: 300px;
+  padding: 10px 40px 10px 10px;
+  border: 3px solid var(--color-light-gray);
+  border-radius: 3px;
+  font-size: var(--font-size-medium);
+  font-family: var(--font-family-main);
+  box-sizing: border-box;
+  outline: none;
+}
+.input:focus {
+  border: 3px solid #6a83fb;
+}
+
+.clear {
+  position: absolute;
+  display: inline-block;
+  top: 10px;
+  right: 10px;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+  object-position: center center;
+  cursor: pointer;
+  opacity: 0.3;
+  transition: 0.5s;
+}
+
+.clear__disabled {
+  opacity: 1;
+}
